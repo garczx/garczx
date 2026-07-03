@@ -1,10 +1,10 @@
-# Gabriel System
+## Gabriel System
 
 <p align="center">
   <img width="400" alt="Gabriel Garcês" src="./gabriel-photo.jpg" />
 </p>
 
-## [Gabriel Garcês](#gabriel-garcês)
+### Gabriel Garcês
 
 Fazer o próprio caminho quase nunca parece grandioso enquanto está acontecendo.
 
