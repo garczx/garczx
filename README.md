@@ -27,7 +27,7 @@ O resto vai se encaixando.
 ## Open Source
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=garczx&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for garczx" height="165" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=autonomous%20trading%20%7C%20solana&labelColor=fb923c&color=111827" alt="focus autonomous trading solana" />
 </p>
 
 <table>
@@ -63,3 +63,7 @@ O resto vai se encaixando.
 | **Builds** | Apps web, dashboards, integrações e ferramentas internas |
 | **Identity** | Gabriel Garcês |
 | **Reach** | [gabrielgarces.com](https://gabrielgarces.com) |
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=garczx&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for garczx" height="165" />
+</p>
