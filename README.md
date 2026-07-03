@@ -1,4 +1,4 @@
-# Gabriel System
+# Gabriel Garcês
 
 <p align="center">
   <img width="400" alt="Gabriel Garcês" src="./gabriel-photo.jpg" />
@@ -16,7 +16,7 @@ O resto vai se encaixando.
 
 ## Now
 
-**Gabriel System** — marca principal dos meus projetos de produto, automação e interfaces.
+**Gabriel Garcês** — marca principal dos meus projetos de produto, automação e interfaces.
 
 **Construindo e organizando** — apps web, integrações, painéis e ferramentas internas.
 
@@ -55,7 +55,7 @@ O resto vai se encaixando.
 
 | Highlight | Detail |
 |---|---|
-| **Gabriel System** | Marca principal para produtos, automações e interfaces |
+| **Gabriel Garcês** | Marca principal para produtos, automações e interfaces |
 | **Builds** | Apps web, dashboards, integrações e ferramentas internas |
 | **Identity** | Gabriel Garcês |
 | **Reach** | [gabrielgarces.com](https://gabrielgarces.com) |
