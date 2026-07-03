@@ -1,47 +1,61 @@
-## Gabriel System
+# Gabriel System
 
 <p align="center">
   <img width="400" alt="Gabriel Garcês" src="./gabriel-photo.jpg" />
 </p>
 
-<p align="center">
-  Fazer o próprio caminho quase nunca parece grandioso enquanto está acontecendo.<br /><br />
-  Na prática, é só acumular repertório, aprender a resolver problemas e não deixar os outros decidirem sua direção por você.<br /><br />
-  O resto vai se encaixando.<br /><br />
-</p>
+<p align="center"><sub><em>
+Fazer o próprio caminho quase nunca parece grandioso enquanto está acontecendo.<br />
+Na prática, é só acumular repertório, aprender a resolver problemas e não deixar os outros decidirem sua direção por você.<br />
+O resto vai se encaixando.
+</em></sub></p>
 
-[gabrielgarces.com →](https://gabrielgarces.com)
+**[gabrielgarces.com →](https://gabrielgarces.com)**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Products%20%26%20Automation-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20React%20%7C%20Node-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Shipping-111827?style=for-the-badge" />
-</p>
+---
 
-## Sobre
+## Now
 
-Eu construo apps, automações e interfaces com foco em execução limpa e resultado real.
+**Gabriel System** — marca principal dos meus projetos de produto, automação e interfaces.
 
-## O que faço
+**Construindo e organizando** — apps web, integrações, painéis e ferramentas internas.
 
-- Produtos web
-- Automação de processos
-- Dashboards e painéis
-- Integrações com APIs
-- Ferramentas visuais e utilitárias
+**Contato** — [Instagram](https://instagram.com/dixgarces) · [LinkedIn](https://www.linkedin.com/in/gabrielgarces/) · [GitHub](https://github.com/garczx)
 
-## Stack
+---
 
-`TypeScript` `React` `Node.js` `HTML` `CSS` `C#`
+## Open Source
 
-## Em destaque
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/garczx/gabriel-system"><b>gabriel-system</b></a><br />
+      <sub>Projeto central da marca Gabriel System.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/garczx/recorte-video"><b>recorte-video</b></a><br />
+      <sub>Módulo de recorte de vídeo com ffmpeg.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/garczx/evolution-api"><b>evolution-api</b></a><br />
+      <sub>Integrações de WhatsApp e automações.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/garczx/animation-map-studio"><b>animation-map-studio</b></a><br />
+      <sub>Estúdio visual e composição de cenas.</sub>
+    </td>
+  </tr>
+</table>
 
-- `gabriel-system` - projeto central da marca Gabriel System
-- `recorte-video` - módulo de recorte de vídeo com ffmpeg
-- `evolution-api` - integrações de WhatsApp e automações
-- `animation-map-studio` - estúdio visual e composição de cenas
-- `revalida-checker` - validação e conferência de dados
+---
 
-## Contato
+## Highlights
 
-[GitHub](https://github.com/garczx) • [Instagram](https://instagram.com/dixgarces) • [LinkedIn](https://www.linkedin.com/in/gabrielgarces/)
+| Highlight | Detail |
+|---|---|
+| **Gabriel System** | Marca principal para produtos, automações e interfaces |
+| **Builds** | Apps web, dashboards, integrações e ferramentas internas |
+| **Identity** | Gabriel Garcês |
+| **Reach** | [gabrielgarces.com](https://gabrielgarces.com) |
