@@ -6,8 +6,9 @@
 
 <p align="center">
   <strong>Gabriel Garcês</strong><br />
-  Builder de produtos web<br />
-  Automates. Designs. Ships.
+  Fazer o próprio caminho quase nunca parece grandioso enquanto está acontecendo.<br />
+  Na prática, é só acumular repertório, aprender a resolver problemas e não deixar os outros decidirem sua direção por você.<br />
+  O resto vai se encaixando.
 </p>
 
 <p align="center">
