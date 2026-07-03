@@ -71,3 +71,9 @@ O resto vai se encaixando.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=garczx&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph for garczx" />
 </p>
+
+## Contributions in the last year
+
+<p align="center">
+  <img src="./activity-overview.svg" alt="Activity overview for garczx" width="740" />
+</p>
