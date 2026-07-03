@@ -36,5 +36,4 @@ Eu construo apps, automações e interfaces com foco em execução limpa e resul
 
 ## Contato
 
-[GitHub](https://github.com/garczx) • [Instagram](https://instagram.com/)
-
+[GitHub](https://github.com/garczx) • [Instagram](https://instagram.com/dixgarces) • [LinkedIn](https://www.linkedin.com/in/gabrielgarces/)
