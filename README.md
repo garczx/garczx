@@ -4,13 +4,15 @@
   <img width="400" alt="Gabriel Garcês" src="./gabriel-photo.jpg" />
 </p>
 
-<p align="center" style="font-family: ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif; font-size: 16px; line-height: 1.7;">
-  <strong>Gabriel Garcês</strong><br />
-  Fazer o próprio caminho quase nunca parece grandioso enquanto está acontecendo.<br />
-  Na prática, é só acumular repertório, aprender a resolver problemas e não deixar os outros decidirem sua direção por você.<br />
-  O resto vai se encaixando.<br /><br />
-  <a href="https://gabrielgarces.com">gabrielgarces.com →</a>
-</p>
+## [Gabriel Garcês](#gabriel-garcês)
+
+Fazer o próprio caminho quase nunca parece grandioso enquanto está acontecendo.
+
+Na prática, é só acumular repertório, aprender a resolver problemas e não deixar os outros decidirem sua direção por você.
+
+O resto vai se encaixando.
+
+[gabrielgarces.com →](https://gabrielgarces.com)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Products%20%26%20Automation-111827?style=for-the-badge" />
