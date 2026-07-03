@@ -33,22 +33,22 @@ O resto vai se encaixando.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/garczx/gabriel-system"><b>gabriel-system</b></a><br />
-      <sub>Projeto central da marca Gabriel System.</sub>
+      <a href="https://github.com/garczx/gabriel-system"><h3>gabriel-system</h3></a>
+      <p>Projeto central da marca Gabriel Garcês.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/garczx/recorte-video"><b>recorte-video</b></a><br />
-      <sub>Módulo de recorte de vídeo com ffmpeg.</sub>
+      <a href="https://github.com/garczx/recorte-video"><h3>recorte-video</h3></a>
+      <p>Módulo de recorte de vídeo com ffmpeg.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/garczx/evolution-api"><b>evolution-api</b></a><br />
-      <sub>Integrações de WhatsApp e automações.</sub>
+      <a href="https://github.com/garczx/evolution-api"><h3>evolution-api</h3></a>
+      <p>Integrações de WhatsApp e automações.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/garczx/animation-map-studio"><b>animation-map-studio</b></a><br />
-      <sub>Estúdio visual e composição de cenas.</sub>
+      <a href="https://github.com/garczx/animation-map-studio"><h3>animation-map-studio</h3></a>
+      <p>Estúdio visual e composição de cenas.</p>
     </td>
   </tr>
 </table>
