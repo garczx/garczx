@@ -16,11 +16,11 @@ O resto vai se encaixando.
 
 ## Now
 
-**Gabriel Garcês** — marca principal dos meus projetos de produto, automação e interfaces.
+**Creator of Gabriel Garcês** — marca principal dos meus projetos de produto, automação e interfaces.
 
 **Construindo e organizando** — apps web, integrações, painéis e ferramentas internas.
 
-**Contato** — [Instagram](https://instagram.com/dixgarces) · [LinkedIn](https://www.linkedin.com/in/gabrielgarces/) · [GitHub](https://github.com/garczx)
+**Available for projects** — web products, automation, internal tools, and interfaces. [gabrielgarces.com](https://gabrielgarces.com) · DM [@dixgarces](https://instagram.com/dixgarces)
 
 ---
 
