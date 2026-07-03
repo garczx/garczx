@@ -27,7 +27,7 @@ O resto vai se encaixando.
 ## Open Source
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=autonomous%20trading%20%7C%20solana&labelColor=fb923c&color=111827" alt="focus autonomous trading solana" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=products%20%7C%20automation%20%7C%20interfaces&labelColor=111827&color=111827" alt="focus products automation interfaces" />
 </p>
 
 <table>
