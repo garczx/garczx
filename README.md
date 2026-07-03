@@ -6,8 +6,7 @@
 
 <p align="center"><sub><em>
 Fazer o próprio caminho quase nunca parece grandioso enquanto está acontecendo.<br />
-Na prática, é só acumular repertório, aprender a resolver problemas e não deixar os outros decidirem sua direção por você.<br />
-O resto vai se encaixando.
+Na prática, é só acumular repertório, resolver problemas e seguir com consistência.
 </em></sub></p>
 
 **[gabrielgarces.com →](https://gabrielgarces.com)**
@@ -16,11 +15,9 @@ O resto vai se encaixando.
 
 ## Now
 
-**Creator of Gabriel Garcês** — marca principal dos meus projetos de produto, automação e interfaces.
-
-**Construindo e organizando** — apps web, integrações, painéis e ferramentas internas.
-
-**Available for projects** — web products, automation, internal tools, and interfaces. [gabrielgarces.com](https://gabrielgarces.com) · DM [@dixgarces](https://instagram.com/dixgarces)
+- Product, automation, and internal tools.
+- Web apps, integrations, dashboards, and interfaces.
+- Available for projects: [gabrielgarces.com](https://gabrielgarces.com) · [Instagram](https://instagram.com/dixgarces) · [LinkedIn](https://www.linkedin.com/in/gabrielgarces/)
 
 ---
 
@@ -34,21 +31,21 @@ O resto vai se encaixando.
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/garczx/gabriel-system"><h3>gabriel-system</h3></a>
-      <p>Projeto central da marca Gabriel Garcês.</p>
+      <p>Core workspace for products, automations, and interfaces.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/garczx/recorte-video"><h3>recorte-video</h3></a>
-      <p>Módulo de recorte de vídeo com ffmpeg.</p>
+      <a href="https://github.com/garczx/evolution-api"><h3>evolution-api</h3></a>
+      <p>Messaging and automation integrations.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/garczx/evolution-api"><h3>evolution-api</h3></a>
-      <p>Integrações de WhatsApp e automações.</p>
+      <a href="https://github.com/garczx/animation-map-studio"><h3>animation-map-studio</h3></a>
+      <p>Visual composition and scene tooling.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/garczx/animation-map-studio"><h3>animation-map-studio</h3></a>
-      <p>Estúdio visual e composição de cenas.</p>
+      <a href="https://github.com/garczx/recorte-video"><h3>recorte-video</h3></a>
+      <p>Video clipping pipeline powered by ffmpeg.</p>
     </td>
   </tr>
 </table>
@@ -57,11 +54,10 @@ O resto vai se encaixando.
 
 ## Highlights
 
-| Highlight | Detail |
+| Area | Detail |
 |---|---|
-| **Gabriel Garcês** | Marca principal para produtos, automações e interfaces |
-| **Builds** | Apps web, dashboards, integrações e ferramentas internas |
-| **Identity** | Gabriel Garcês |
+| **Focus** | Products, automation, internal tools, and interfaces |
+| **Builds** | Web apps, dashboards, and integrations |
 | **Reach** | [gabrielgarces.com](https://gabrielgarces.com) |
 
 <p align="center">
