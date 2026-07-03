@@ -67,3 +67,7 @@ O resto vai se encaixando.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=garczx&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for garczx" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garczx&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph for garczx" />
+</p>
