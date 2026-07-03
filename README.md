@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=D9D9D9&center=true&vCenter=true&width=900&lines=Gabriel+Garc%C3%AAs;Builder+de+produtos+web;Automates.+Designs.+Ships." alt="Typing SVG" />
+  <strong>Gabriel Garcês</strong><br />
+  Builder de produtos web<br />
+  Automates. Designs. Ships.
 </p>
 
 <p align="center">
